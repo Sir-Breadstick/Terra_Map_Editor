@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="0; url=Terra_mountain_editor.html">
+  <title>Terra Map Editor</title>
+</head>
+  <body>
+    <p>
+      <a href="Terra_mountain_editor.html">
+        Open Terra Map Editor
+      </a>
+    </p>
+  </body>
+</html>
